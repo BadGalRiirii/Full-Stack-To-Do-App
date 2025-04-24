@@ -11,7 +11,7 @@ import {
   Alert,
 } from "react-native";
 
-const API_URL = "https://butong-expo-app.onrender.com/api/todos/";
+const API_URL = "https://full-stack-to-do-app-j6ds.onrender.com/api/todos/";
 
 export default function App() {
   const [darkMode, setDarkMode] = useState(false);
